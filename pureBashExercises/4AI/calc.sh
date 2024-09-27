@@ -26,7 +26,8 @@ then
 	echo $(($n1/$n2))
 else
 	echo "ERRORE! Divisione per zero!"
+	exit 1
 fi
 else
-	echo "Operazione non riconosciuta"
+	echo "Operazione $op non riconosciuta"
 fi
