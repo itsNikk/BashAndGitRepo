@@ -1,0 +1,6 @@
+1
+La somma dei numeri dal secondo al quarto è: 9
+La moltiplicazione dei numeri dal primo al quarto è: 24
+I numeri sommati sono stati: 2 3 4
+I numeri moltiplicati sono stati: 1 2 3 4
+L'ultimo elemento dell'array è: 6
