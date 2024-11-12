@@ -58,3 +58,5 @@ git status
 echo
 git add *
 git commit -m "Commit su featureB"
+echo 
+git log --all --oneline --graph
