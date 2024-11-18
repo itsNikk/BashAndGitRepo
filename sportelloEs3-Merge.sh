@@ -50,6 +50,7 @@ git merge featureB
 echo "-----------------------"
 git status
 
+# gestione del conflitto
 nano file2.txt
 git add file2.txt
 git commit -m "Merged featureB in main"
